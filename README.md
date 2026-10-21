@@ -7,3 +7,4 @@ Two draft spreadsheet projects for solution implementations (<a href="https://do
 Une ébauche, utilisable, de feuille de calcul, <a href="https://docs.google.com/spreadsheets/d/1pO0sjhwbuCEFbEKnPwUiuhqevV6LedbdppxH0lUfkaA/edit?usp=sharing">pour la résolution de problème en groupe</a>.<br>
 Deux ébauches de projets à base de feuille de calcul pour l'implémentation de solutions (<a href="https://docs.google.com/spreadsheets/d/1gEs-Hvg-vWLoih9JwabRRxWlJ_gvtrbm7Vktc5hUxXY/edit?usp=sharing">fichier 1</a>, <a href="https://docs.google.com/spreadsheets/d/10RgcEAFugR9N1vaI0P4sJHDxM59DbCKYntCP65FScoE/edit?usp=sharing">fichier 2</a>).
 
+
